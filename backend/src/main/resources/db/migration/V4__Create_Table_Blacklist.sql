@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS blacklist(
+    id  INT(11) UNSIGNED NOT NULL,
+    name VARCHAR(255) NOT NULL,
+    cpf VARCHAR(11) UNIQUE NOT NULL,
+    created_at DATETIME,
+    CONSTRAINT pk_id_blacklist PRIMARY KEY (id)
+);

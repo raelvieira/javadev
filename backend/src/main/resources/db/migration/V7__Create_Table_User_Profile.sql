@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS user_profile(
+    user_id INT(11) UNSIGNED NOT NULL,
+    profile_id INT(11) UNSIGNED NOT NULL
+)engine=InnoDB DEFAULT CHARSET=utf8;
