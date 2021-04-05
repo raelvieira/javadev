@@ -5,7 +5,7 @@
 ## 👨‍💻 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
- [Java](https://www.java.com/pt_BR/download/)
+- [Java](https://www.java.com/pt_BR/download/)
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [Flyway](https://flywaydb.org/)
 - [MySQL](https://www.mysql.com/)
